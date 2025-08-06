@@ -8,7 +8,7 @@
 - [Arquidiocese](#arquidiocese)
 - [Arquieparquia](#arquieparquia)
 - [Assembleia Geral](#assembleia-geral)
-- [Basílica Instituicao](#basilica-instituicao)
+- [Basílica Instituicao](#basílica-instituicao)
 - [Bispo](#bispo)
 - [Basilica Paroquia](#basilica-paroquia)
 
